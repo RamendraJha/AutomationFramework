@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Title of your feature #2
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.024 s - in Title of your feature #2

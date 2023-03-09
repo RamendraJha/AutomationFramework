@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: Title of your feature
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 4.524 s <<< FAILURE! - in Title of your feature
+Title of your scenario #1(Title of your feature)  Time elapsed: 1.541 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <2001> but was <200>.
+
+
+Title of your scenario #2(Title of your feature)  Time elapsed: 0.635 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <2001> but was <200>.
+
+
+Title of your scenario #3(Title of your feature)  Time elapsed: 0.58 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <2001> but was <200>.
+
+

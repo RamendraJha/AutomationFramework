@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Title of your feature #1
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 4.594 s <<< FAILURE! - in Title of your feature #1
+Verify the Title of Web Page(Title of your feature #1)  Time elapsed: 2.807 s  <<< ERROR!
+java.lang.IllegalMonitorStateException: current thread is not owner
+
+Verify Contact page is loading(Title of your feature #1)  Time elapsed: 1.787 s  <<< ERROR!
+java.lang.IllegalMonitorStateException: current thread is not owner
+
