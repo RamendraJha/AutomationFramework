@@ -5,10 +5,10 @@ public class Main {
 	
 	public static void main(String args[]) {
 		
-		final String username = "ramendrakumar.net@outlook.com";
-        final String password = "VIJAYkantjha01!";
-        String fromAddress="ramendrakumar.net@outlook.com";
-        String toAddress="ramendrakumar.net@outlook.com";
+		final String username = "mail ID";
+        final String password = "Password";
+        String fromAddress="fromAdress";
+        String toAddress="toAddress";
         String bodyTable=MailBody.HtmlBodyTable();
         System.out.println(bodyTable);
         FileReadWrite.saveHtmlFile(bodyTable);
